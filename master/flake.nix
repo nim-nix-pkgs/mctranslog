@@ -11,6 +11,7 @@
   inputs.src-mctranslog-master.ref   = "refs/heads/master";
   inputs.src-mctranslog-master.owner = "abbeymart";
   inputs.src-mctranslog-master.repo  = "mctranslog";
+  inputs.src-mctranslog-master.dir   = "";
   inputs.src-mctranslog-master.type  = "github";
   
   inputs."mcresponse".owner = "nim-nix-pkgs";
