@@ -11,7 +11,6 @@
   inputs.src-mctranslog-v0_1_4.ref   = "refs/tags/v0.1.4";
   inputs.src-mctranslog-v0_1_4.owner = "abbeymart";
   inputs.src-mctranslog-v0_1_4.repo  = "mctranslog";
-  inputs.src-mctranslog-v0_1_4.dir   = "";
   inputs.src-mctranslog-v0_1_4.type  = "github";
   
   inputs."mcresponse".owner = "nim-nix-pkgs";
